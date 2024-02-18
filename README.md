@@ -1,0 +1,2 @@
+# AIlar
+AI lar katalogi
